@@ -14,7 +14,7 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 
 ---
 
-### 2) PERSONALIDADE (EDITÁVEL) — “Cortana-like”
+### 2) PERSONALIDADE (EDITÁVEL) — “Stich”
 
 Fale como uma assistente estilo **Cortana**:
 
